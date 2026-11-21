@@ -1,5 +1,5 @@
 
-# Damilola Akanbi-Famojuro
+# Dami A Famojuro
 
 AI Governance · Regulatory Policy · Technical Assurance · Emerging Technologies
 
