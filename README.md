@@ -8,13 +8,12 @@ AI Governance · Regulatory Policy · Technical Assurance · Emerging Technologi
 ### Research & Projects
 
 #### DAF/ IN CONTEXT
-*AI Governance · Policy · Society*
 
-Independent research and analysis on global AI governance, regulation, and the societal implications of emerging technologies.
+Independent research and analysis on AI governance, policy, and society.
 
 #### AI Governance & Assurance Portfolio
 
-Independent case studies applying governance frameworks to AI systems, with a focus on risk assessment, technical assurance, regulatory compliance, and lifecycle governance.
+Applied research and case studies examining AI risk, regulatory compliance, technical assurance, and lifecycle governance.
 
 ---
 
