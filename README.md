@@ -1,16 +1,18 @@
-## Hi there 👋
+Damilola Akanbi-Famojuro
 
-<!--
-**dafincontext/dafincontext** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My work focuses on AI governance, emerging technologies, regulatory policy, and the intersection of technology and society.
 
-Here are some ideas to get you started:
+Research & Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+DAF/ IN CONTEXT
+AI Governance · Policy · Society
+
+Independent research and analysis on global AI governance, regulation, and the societal implications of emerging technologies.
+
+AI Governance & Assurance Portfolio
+
+Independent case studies applying governance frameworks to AI systems, with a focus on risk assessment, technical assurance, regulatory compliance, and lifecycle governance.
+
+Connect
+
+LinkedIn
