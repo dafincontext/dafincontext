@@ -1,7 +1,7 @@
 
 # Damilola Akanbi-Famojuro
 
-My work focuses on AI governance, emerging technologies, regulatory policy, and the intersection of technology and society.
+AI Governance · Regulatory Policy · Technical Assurance · Emerging Technologies
 
 ---
 
